@@ -14,9 +14,7 @@ export default class SearchLanding {
         this.bookDescription = this.page.getByText('Every day I clean the')
     }
     async clickBookTitle(title: any) {
-        await Promise.all([
-            this.page.getByRole('link', { name: title }).click(),
-        ]);
+          await  this.page.getByRole('link', { name: title }).click();
     }
     async verifyAuthor(author: any) {
         try {

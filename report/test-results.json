@@ -89,19 +89,19 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 37,
+                      "workerIndex": 42,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 24839,
+                      "duration": 25676,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "Thu Sep 18 2025 16:54:38 GMT-0400 (Eastern Daylight Time)\n"
+                          "text": "Thu Sep 18 2025 19:11:58 GMT-0400 (Eastern Daylight Time)\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-09-18T20:54:36.210Z",
+                      "startTime": "2025-09-18T23:11:55.902Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -121,8 +121,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-09-18T20:54:31.133Z",
-    "duration": 32469.221000000834,
+    "startTime": "2025-09-18T23:11:49.558Z",
+    "duration": 35405.125,
     "expected": 1,
     "skipped": 0,
     "unexpected": 0,
